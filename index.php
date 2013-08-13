@@ -22,6 +22,7 @@ $title = "Rohit Gopal's Profile";
 	<h2>Links</h2>
 	<ul>
 		<li><a href="http://www.linkedin.com/pub/rohit-gopal/12/2a2/977">LinkedIn</a></li>
+		<li><a href="https://github.com/rabbitXIII">Github</a></li>
 		<li>Previous Work 
 			<ul>
 				<li><a href="http://www.wedotechnologies.com/en/">WeDo Technologies</a></li>	
