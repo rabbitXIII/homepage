@@ -10,3 +10,7 @@ h1,h2,h3 {
 #profile_pic {
 	float: right;
 }
+
+body {
+	background-color: #FCF5E4;
+}
